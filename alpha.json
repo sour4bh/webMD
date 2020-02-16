@@ -7801,12 +7801,12 @@
             "/drugs/2/drug-78509/betamethasone-acetate-micronized-bulk-100-powder/details"
         ],
         [
-            "betamethasone ACETATE-SOD phos Vial",
-            "/drugs/2/drug-5714/betamethasone-acetate-sod-phos-vial/details"
-        ],
-        [
             "betamethasone ACETATE-SOD PHOS Vial",
             "/drugs/2/drug-175039/betamethasone-acetate-sod-phos-vial/details"
+        ],
+        [
+            "betamethasone ACETATE-SOD phos Vial",
+            "/drugs/2/drug-5714/betamethasone-acetate-sod-phos-vial/details"
         ],
         [
             "BETAMETHASONE ACETATE-SOD PHOS Vial",
@@ -18189,12 +18189,12 @@
             "/drugs/2/drug-95063-1131/daytime-sinus/details"
         ],
         [
-            "DAYTIME-COLD NIGHTTIME-CLD-FLU",
-            "/drugs/2/drug-174517/daytime-cold-nighttime-cld-flu/details"
-        ],
-        [
             "Daytime-Cold Nighttime-Cld-Flu",
             "/drugs/2/drug-171580/daytime-cold-nighttime-cld-flu/details"
+        ],
+        [
+            "DAYTIME-COLD NIGHTTIME-CLD-FLU",
+            "/drugs/2/drug-174517/daytime-cold-nighttime-cld-flu/details"
         ],
         [
             "Daytime-Nighttime COLD-FLU",
@@ -26398,11 +26398,11 @@
         ],
         [
             "Floriva Plus",
-            "/drugs/2/drug-175104-4106/floriva-plus/details"
+            "/drugs/2/drug-171199-4106/floriva-plus/details"
         ],
         [
             "Floriva Plus",
-            "/drugs/2/drug-171199-4106/floriva-plus/details"
+            "/drugs/2/drug-175104-4106/floriva-plus/details"
         ],
         [
             "Floriva Tablet, Chewable",
@@ -27982,11 +27982,11 @@
         ],
         [
             "Gammaplex Vial",
-            "/drugs/2/drug-173457-3157/gammaplex-vial/details"
+            "/drugs/2/drug-153934-3157/gammaplex-vial/details"
         ],
         [
             "Gammaplex Vial",
-            "/drugs/2/drug-153934-3157/gammaplex-vial/details"
+            "/drugs/2/drug-173457-3157/gammaplex-vial/details"
         ],
         [
             "Gamunex-C Vial",
@@ -30526,27 +30526,27 @@
         ],
         [
             "HAIR, SKIN AND NAILS",
-            "/drugs/2/drug-176112/hair-skin-and-nails/details"
-        ],
-        [
-            "Hair, Skin and NAILS",
-            "/drugs/2/drug-166286/hair-skin-and-nails/details"
+            "/drugs/2/drug-175900/hair-skin-and-nails/details"
         ],
         [
             "HAIR, SKIN AND NAILS",
-            "/drugs/2/drug-175900/hair-skin-and-nails/details"
+            "/drugs/2/drug-176112/hair-skin-and-nails/details"
         ],
         [
             "HAIR, SKIN AND NAILS",
             "/drugs/2/drug-174374/hair-skin-and-nails/details"
         ],
         [
-            "HAIR, SKIN and NAILS tablet",
-            "/drugs/2/drug-166624-9038/hair-skin-and-nails/details"
+            "Hair, Skin and NAILS",
+            "/drugs/2/drug-166286/hair-skin-and-nails/details"
         ],
         [
             "Hair, Skin and Nails tablet",
             "/drugs/2/drug-168930/hair-skin-and-nails/details"
+        ],
+        [
+            "HAIR, SKIN and NAILS tablet",
+            "/drugs/2/drug-166624-9038/hair-skin-and-nails/details"
         ],
         [
             "HAIR, SKIN AND NAILS Tablet, Chewable",
@@ -31410,11 +31410,11 @@
         ],
         [
             "Honey Bears",
-            "/drugs/2/drug-21093-5249/honey-bears/details"
+            "/drugs/2/drug-21053-7280/honey-bears/details"
         ],
         [
             "Honey Bears",
-            "/drugs/2/drug-21053-7280/honey-bears/details"
+            "/drugs/2/drug-21093-5249/honey-bears/details"
         ],
         [
             "HONEY bee VENOM PROTEIN Vial",
@@ -32277,12 +32277,12 @@
             "/drugs/2/drug-64094/hydroxyprogesterone-caproate-bulk-100-powder/details"
         ],
         [
-            "HYDROXYPROGESTERONE CAPROATE Vial",
-            "/drugs/2/drug-172995-1400/hydroxyprogestpfpreg-presv-oil/details"
-        ],
-        [
             "hydroxyprogesterone CAPROATE Vial",
             "/drugs/2/drug-170291-1400/hydroxyprogesterone-capppres-oil/details"
+        ],
+        [
+            "HYDROXYPROGESTERONE CAPROATE Vial",
+            "/drugs/2/drug-172995-1400/hydroxyprogestpfpreg-presv-oil/details"
         ],
         [
             "hydroxyprogesterone caproate Vial",
@@ -41083,12 +41083,12 @@
             "/drugs/2/drug-170510-9038/mens-50-advanced-one-daily/details"
         ],
         [
-            "Men's Daily FORMULA",
-            "/drugs/2/drug-60050/mens-daily-formula/details"
-        ],
-        [
             "Men's Daily Formula",
             "/drugs/2/drug-156161-9038/mens-daily-formula/details"
+        ],
+        [
+            "Men's Daily FORMULA",
+            "/drugs/2/drug-60050/mens-daily-formula/details"
         ],
         [
             "Men's Daily Gummies",
@@ -41951,12 +41951,12 @@
             "/drugs/2/drug-175072/methylprednisolone-acetate-vial/details"
         ],
         [
-            "methylprednisolone acetate Vial",
-            "/drugs/2/drug-4454-862/methylprednisolone-acetate-vial/details"
-        ],
-        [
             "methylprednisolone ACETATE Vial",
             "/drugs/2/drug-175029/methylprednisolone-acetate-vial/details"
+        ],
+        [
+            "methylprednisolone acetate Vial",
+            "/drugs/2/drug-4454-862/methylprednisolone-acetate-vial/details"
         ],
         [
             "methylprednisolone acetate, micronized (bulk) 100 % powder",
@@ -48024,15 +48024,15 @@
         ],
         [
             "Nuzyra",
-            "/drugs/2/drug-176628-1992/nuzyra/details"
-        ],
-        [
-            "Nuzyra",
             "/drugs/2/drug-176635-1992/nuzyra/details"
         ],
         [
             "Nuzyra",
             "/drugs/2/drug-176634-1992/nuzyra/details"
+        ],
+        [
+            "Nuzyra",
+            "/drugs/2/drug-176628-1992/nuzyra/details"
         ],
         [
             "Nuzyra vial",
@@ -48178,11 +48178,11 @@
         ],
         [
             "Obtrex DHA",
-            "/drugs/2/drug-175901-7126/obtrex-dha/details"
+            "/drugs/2/drug-151485-7126/obtrex-dha/details"
         ],
         [
             "Obtrex DHA",
-            "/drugs/2/drug-151485-7126/obtrex-dha/details"
+            "/drugs/2/drug-175901-7126/obtrex-dha/details"
         ]
     ],
     "oc": [
@@ -57402,11 +57402,11 @@
         ],
         [
             "Quflora FE",
-            "/drugs/2/drug-172284-443/quflora-fe/details"
+            "/drugs/2/drug-173595-442/quflora-fe/details"
         ],
         [
             "Quflora FE",
-            "/drugs/2/drug-173595-442/quflora-fe/details"
+            "/drugs/2/drug-172284-443/quflora-fe/details"
         ],
         [
             "Quflora Tablet, Chewable",
@@ -60714,11 +60714,11 @@
         ],
         [
             "Selsun Blue Shampoo",
-            "/drugs/2/drug-173899/selsun-blue-shampoo/details"
+            "/drugs/2/drug-169997/selsun-blue-shampoo/details"
         ],
         [
             "Selsun Blue Shampoo",
-            "/drugs/2/drug-169997/selsun-blue-shampoo/details"
+            "/drugs/2/drug-173899/selsun-blue-shampoo/details"
         ],
         [
             "Selzentry",

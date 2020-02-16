@@ -28,9 +28,4 @@ with open('alpha.json', 'r') as w:
                     with open('only_in_webmd.csv', 'a') as f:
                         f.write(drug + '\n')
 
-
-
-
-
-
 # %%

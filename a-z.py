@@ -9,6 +9,7 @@ from pprint import pprint as pp
 drugs = {}
 alpha = list('abcdefghijklmnopqrstuvwxyz')
 alpha = [i+j for i in alpha for j in alpha]
+alpha.append(0)
 
 def update_list(soup, by):
     ul = soup.find('ul', 'drug-list')
@@ -21,7 +22,7 @@ def update_list(soup, by):
         except KeyError:
             drugs[by] = []
         finally:
-            drugs[by].append((li.a.text, li.a['href']))
+            drugs[by].append([li.a.text, li.a['href']])
 
 istheredurgs = lambda soup : soup.find('ul', 'drug-list').find('li') is not None
 #%%
